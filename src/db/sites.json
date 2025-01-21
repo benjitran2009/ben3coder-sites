@@ -1,0 +1,20 @@
+{
+    "Example": {
+        "Author": "Ben3Coder Software",
+        "URL":"https://sites.ben3coder.dev/sites/example",
+        "CONFIG":"https://sites.ben3coder.dev/sites/example/.config",
+        "Plan":"PREMIUM",
+        "Description":"Example Site",
+        "Abuse":"abuse@ben3coder.dev",
+        "Notes": "Example Siite"
+    },
+    "Example-Registar": {
+        "Author": "Hide my Info (0edf6b63-80c7-4224-a3d8-6e93e7b71d89)",
+        "URL": "https://sites.ben3coder.dev/sites/example-reg",
+        "CONFIG":"https://sites.ben3coder.dev/sites/example-reg/.config",
+        "PLAN":"PREMIUM-RESELLER",
+        "Description":"Example Site Registar",
+        "Abuse":"abuse@0edf6b63-80c7-4224-a3d8-6e93e7b71d89.ben3coder.dev",
+        "Notes": "Information Redacted"
+    }
+}

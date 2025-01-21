@@ -1,0 +1,12 @@
+{
+    "Example": {
+        "SV-Disabled": false,
+        "SV-Seizure": false,
+        "SV-Update": false
+    },
+    "Example-Registar":{
+        "SV-Disabled": false,
+        "SV-Seizure": false,
+        "SV-Update": false
+    }
+}
